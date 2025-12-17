@@ -14,7 +14,7 @@ format:
   theme-html
 
 website:
-  title: "cap_fellows_workshop"
+  title: "CAP Fellows workshop resources"
   reader-mode: false
   repo-url: https://github.com/nceas-learning-hub/cap_fellows_workshop
 
@@ -45,7 +45,16 @@ website:
     contents:
       - index.qmd # preface
       # START SESSIONS
-      # SESSION_LINKS
+      - section: "Setup"
+        contents:
+        - s01_r_git_install_guide.qmd
+        - s02_git_setup.qmd
+      - section: "Git/GitHub"
+        contents:
+        - s03_github_introduction.qmd
+        - s04_github_collaboration.qmd
+        - s05_github_project_management.qmd
+        - s06_github_publishing.qmd
       # END SESSIONS
 
   page-footer:

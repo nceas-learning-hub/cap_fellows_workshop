@@ -1,0 +1,7 @@
+module,lesson,lesson_file_package,lesson_file_course,package,pkg_version
+Setup,r_git_install_guide,r_git_install_guide.qmd,s01_r_git_install_guide.qmd,lhLessons,2024.11.07
+Setup,git_setup,git_setup.qmd,s02_git_setup.qmd,lhLessons,2024.11.07
+Setup,github_introduction,github_introduction.qmd,s03_github_introduction.qmd,lhLessons,2024.11.07
+Setup,github_collaboration,github_collaboration.qmd,s04_github_collaboration.qmd,lhLessons,2024.11.07
+Setup,github_publishing,github_publishing.qmd,s05_github_publishing.qmd,lhLessons,2024.11.07
+Setup,github_project_management,github_project_management.qmd,s06_github_project_management.qmd,lhLessons,2024.11.07
