@@ -56,22 +56,25 @@ But you're worried about losing the old model. Instead of editing the code, you 
 ---
 
 
-:::{.body-text}
 Commenting out code is common, but it's hard to understand why you did this when you come back years later or you when you send your script to a colleague. 
 
-Luckily, there's a better way: Version control. 
+Luckily, there's a better way: 
 
+<center>
+[Version control.]{.custom-title}
+</center>
+ 
+
+---
+
+:::{.body-text}
 Instead of commenting out the old code, we can change the code and tell Git to commit our change. So now we have two distinct versions of our analysis and we can always see what the previous version(s) look like.
 
 ![](images/git-intro-slide04.png)
+
 We can also describe the change in the commit message. Git also tracks who, when, and where the change was made.
 
-
 :::
-
-
-
-
 
 ---
 
@@ -128,10 +131,11 @@ After all that hard work on the machine learning experiment, you decide to scrap
 
 :::{.body-text}
 
-If, instead, you decided you liked the machine learning experiment, you could also merge the branch with your main development line. Merging branches is analogous to accepting a change in Word's Track Changes feature but way more powerful and useful.
+If, instead, you decided you liked the machine learning experiment, you could also merge the branch with your main development line. Merging branches is analogous to accepting a change in MS Word's Track Changes feature but way more powerful and useful.
 
 ![](images/git-intro-slide10.png)
 :::
+
 ---
 
 :::{.body-text}
@@ -144,4 +148,3 @@ In this case, we tagged the version of our code we used to run the analysis for 
 
 :::
 
-<a href="http://nceas-learning-hub.github.io/duke_data_sci/github_introduction.html#introduction-to-git-github">Return to Original Page</a>
