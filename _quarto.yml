@@ -54,7 +54,7 @@ website:
         - s03_github_introduction.qmd
         - s04_github_collaboration.qmd
         - s05_github_project_management.qmd
-        - s06_github_publishing.qmd
+        # - s06_github_publishing.qmd
       # END SESSIONS
 
   page-footer:
